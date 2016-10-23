@@ -70,4 +70,3 @@ or
 
 npm uninstall \<pkg> --save
 
-### np
