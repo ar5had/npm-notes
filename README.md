@@ -1,4 +1,4 @@
-# npm-commands
+# npm-notes
 
 ### Installing npm latest version
 sudo npm install npm -g
